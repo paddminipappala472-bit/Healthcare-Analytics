@@ -112,7 +112,7 @@ These hospitals also tend to show slightly higher average ratings compared to go
 Insight:
 Non-profit hospitals may benefit from patient-centric policies and reinvestment in quality improvements.
 
- # Conclusions:
+ # Conclusion:
 
 The U.S. healthcare system has strong infrastructure and emergency readiness, but quality and efficiency vary widely.
 
