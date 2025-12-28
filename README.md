@@ -1,4 +1,4 @@
-# Healthcare-Analytics
+## Healthcare-Analytics
 U.S. Hospital Quality &amp; Performance Analysis using Power BI
 
 <img width="1331" height="805" alt="Hospital_Overview" src="https://github.com/user-attachments/assets/b2dcded7-b439-4c94-80e3-6884d40ee47f" />
@@ -21,14 +21,14 @@ The dataset contains U.S. hospital-level information including:
 
 Source: Publicly available U.S. healthcare data.
 
-# Tools & Technologies Used
+## Tools & Technologies Used
 
 - Power BI – Data modeling, DAX measures, and interactive dashboards
 - Microsoft Excel / CSV – Dataset storage and preprocessing
 - GitHub – Project version control and documentation
 
-# Overall Hospital Performance Insights
-## Hospital Coverage & Infrastructure
+## Overall Hospital Performance Insights
+# Hospital Coverage & Infrastructure
 
 The dataset includes 4,812 hospitals across the U.S., providing strong nationwide coverage.
 
