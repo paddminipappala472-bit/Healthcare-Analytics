@@ -2,7 +2,7 @@
 U.S. Hospital Quality &amp; Performance Analysis using Power BI
 
 <img width="1331" height="805" alt="Hospital_Overview" src="https://github.com/user-attachments/assets/b2dcded7-b439-4c94-80e3-6884d40ee47f" />
-
+<img width="1417" height="804" alt="State_Performance_Analysis" src="https://github.com/user-attachments/assets/393976e1-cf36-487d-8baa-4f4b8cb79ab7" />
 
 
 ## Project Overview
