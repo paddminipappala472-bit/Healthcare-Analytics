@@ -1,4 +1,4 @@
-# Healthcare-Analytics
+# Healthcare Quality & Hospital Performance Analytics Dashboard
 U.S. Hospital Quality &amp; Performance Analysis using Power BI
 
 # Project Overview
